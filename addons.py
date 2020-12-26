@@ -55,6 +55,7 @@ __ADDONS__ = [
     "plugin.video.mall.tv",
     "plugin.video.bombuj.filmyserialy",
     "plugin.video.stream-cinema"
+    "plugin.parrot.tv"
 ] + _BEAM_
 
 import os
